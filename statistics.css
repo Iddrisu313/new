@@ -1,0 +1,12 @@
+body{
+    background-color: azure;
+    overflow: scroll;
+    
+}
+
+ li{
+    font-size: 20px;
+    line-height: 40px;
+ }
+ a:active{color: red;}
+ a:visited{color: pink;}
